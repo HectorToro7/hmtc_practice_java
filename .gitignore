@@ -1,0 +1,12 @@
+# Compilados Java
+*.class
+
+# Carpeta de build
+out/
+build/
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
